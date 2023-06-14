@@ -30,4 +30,4 @@ Skills: JAVA/MYSQL/ HTML / CSS/DGITAL MULTIMEDIA
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Hasan7e)  
 
-![Profile views](https://gpvc.arturio.dev/Hasan7e)  
+ 
