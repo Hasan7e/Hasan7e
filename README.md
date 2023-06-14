@@ -1,4 +1,4 @@
-## Hi there 👋,I am Mahmudul Hasan
+## Hi there 👋,my name is Mahmudul Hasan
 ### I am an aspiring software developer.
 
 
