@@ -2,7 +2,7 @@
 ### I am an aspiring software developer.
 
 
-i am currently perusing my computer science degree at NCI. 
+i am currently pursuing my computer science degree at NCI. 
 
 Skills: JAVA/MYSQL/ HTML / CSS/DGITAL MULTIMEDIA
 
