@@ -7,9 +7,9 @@ i am currently pursuing my computer science degree at NCI.
 Skills: JAVA/MYSQL/ HTML / CSS/DGITAL MULTIMEDIA
 
 - 🔭 I’m currently working on Further education. 
-- 🌱 I’m currently learning JAVA Programming, web development 
+- 🌱 I’m currently learning JAVA Programming, web development and Database Management. 
 - 👯 I’m looking to collaborate on programming languages and IT. 
-- 🤔 I’m looking for help with Advise on how to can critical coding skills 
+- 🤔 Any advice on how i can further improve my skills is much appreciated. 
 - 💬 Ask me about Whatever comes to your mind. 
 - 📫 How to reach me: Contact me on : hasan7e@gmail.com 
 
